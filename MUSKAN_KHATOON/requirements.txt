@@ -1,0 +1,16 @@
+streamlit
+pdfplumber
+pytesseract
+pdf2image
+Pillow
+opencv-python
+numpy
+pandas
+spacy
+rapidfuzz
+transformers
+torch
+sentencepiece
+tokenizers
+accelerate
+reportlab
